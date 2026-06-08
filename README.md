@@ -210,10 +210,9 @@ IGNORE 1 ROWS;
 ---
 
 ## 🔗 Related
-
 This is **Part 2** of the IPL 2026 SQL Analytics project.  
-👉 Check out **[Part 1 — Batting Stats](./IPL_RUNS_QUERY.sql)** (Orange Cap leaderboard, 151 players)
-
+👉 Check out **[Part 1 — Batting Stats](https://github.com/SuneelKumaryadav-cmd/IPL2026_SQL_Project)
+**
 ---
 
 ## 👤 Author
