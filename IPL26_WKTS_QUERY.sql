@@ -1,11 +1,12 @@
 -- Business-Oriented SQL Practice Questions (Bowling Dataset)
 
 -- 1.Find the top 10 wicket-takers overall.
-select player , team , wkts
+``` SQL
+    select player , team , wkts
 from iplwickets26
 order by wkts desc
 limit 10;
-
+```
 -- 2.Show bowlers with an average below 25
 SELECT 
 PLAYER , TEAM ,AVE
